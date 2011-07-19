@@ -1,1 +1,1 @@
-awesomeTab in Test Pilot
+awesomeTab, meet Test Pilot and Jetpack
